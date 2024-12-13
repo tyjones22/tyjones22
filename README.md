@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyjones22
+- 👋 Hi, I’m Tyree Jones-Magee
 - 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on any java, javascript, or html/css projects ! :)
